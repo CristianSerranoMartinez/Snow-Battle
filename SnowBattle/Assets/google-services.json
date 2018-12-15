@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "388541920670",
+    "firebase_url": "https://snowballs-98497.firebaseio.com",
+    "project_id": "snowballs-98497",
+    "storage_bucket": "snowballs-98497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388541920670:android:f610de53dabbc873",
+        "android_client_info": {
+          "package_name": "com.Evilorigin.snowballs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388541920670-3ieuq08ps6d4qd853j7cscmtts5v3lnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6I6p00iU2eU3Lq_STfquZpKLaAle0Co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388541920670:android:8d91c441c2527c92",
+        "android_client_info": {
+          "package_name": "com.SnowBattle.SnowBattle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388541920670-3ieuq08ps6d4qd853j7cscmtts5v3lnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6I6p00iU2eU3Lq_STfquZpKLaAle0Co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

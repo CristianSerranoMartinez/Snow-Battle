@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://snowballs-98497.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">388541920670</string>
+  <string name="google_storage_bucket" translatable="false">snowballs-98497.appspot.com</string>
+  <string name="project_id" translatable="false">snowballs-98497</string>
+  <string name="google_api_key" translatable="false">AIzaSyAS6I6p00iU2eU3Lq_STfquZpKLaAle0Co</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAS6I6p00iU2eU3Lq_STfquZpKLaAle0Co</string>
+  <string name="google_app_id" translatable="false">1:388541920670:android:8d91c441c2527c92</string>
+  <string name="default_web_client_id" translatable="false">388541920670-3ieuq08ps6d4qd853j7cscmtts5v3lnm.apps.googleusercontent.com</string>
+</resources>

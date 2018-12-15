@@ -1,0 +1,286 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-nostdlib
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.BaselibModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CloudWebServicesModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.FacebookModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.FileSystemHttpModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpatialTrackingModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.TimelineModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UNETModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/UnityEditor.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Managed/Unity.Locator.dll"
+-r:Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+-r:Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll
+-r:Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+-r:Library/ScriptAssemblies/Editor.dll
+-r:Library/ScriptAssemblies/XiaomiSupport.dll
+-r:Library/ScriptAssemblies/Unity.TextMeshPro.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll"
+-r:Assets/Firebase/Plugins/Firebase.Analytics.dll
+-r:Assets/Firebase/Plugins/Firebase.App.dll
+-r:Assets/Firebase/Plugins/Firebase.Auth.dll
+-r:Assets/Firebase/Plugins/Firebase.Platform.dll
+-r:Assets/Firebase/Plugins/Google.MiniJson.dll
+-r:Assets/Firebase/Plugins/Google.Sharpen.dll
+-r:Assets/Firebase/Plugins/Mono/Firebase.Database.dll
+-r:Assets/Parse/Plugins/Unity.Compat.dll
+-r:Assets/Parse/Plugins/Unity.Tasks.dll
+-r:C:/Users/cris_/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll
+-r:C:/Users/cris_/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll
+-r:C:/Users/cris_/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.3/ChannelPurchase.dll
+-r:C:/Users/cris_/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.xiaomi@1.0.3/UnityStore.dll
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\mscorlib.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Core.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\Boo.Lang.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_2_14
+-define:UNITY_2018_2
+-define:UNITY_2018
+-define:UNITY_ANALYTICS
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITES
+-define:ENABLE_GRID
+-define:ENABLE_TILEMAP
+-define:ENABLE_TERRAIN
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_DIRECTOR
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_TIMELINE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:ENABLE_MONO_BDWGC
+-define:PLATFORM_SUPPORTS_MONO
+-define:INCLUDE_PUBNUB
+-define:ENABLE_VIDEO
+-define:ENABLE_PACKMAN
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_LOCALIZATION
+-define:PLATFORM_ANDROID
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+-define:PLATFORM_SUPPORTS_ADS_ID
+-define:UNITY_CAN_SHOW_SPLASH_SCREEN
+-define:ENABLE_VR
+-define:ENABLE_AR
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:NET_2_0
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+-define:UNITY_HAS_GOOGLEVR
+-define:UNITY_HAS_TANGO
+Assets/PostProcessing/Runtime/Attributes/GetSetAttribute.cs
+Assets/PostProcessing/Runtime/Attributes/MinAttribute.cs
+Assets/PostProcessing/Runtime/Attributes/TrackballAttribute.cs
+Assets/PostProcessing/Runtime/Attributes/TrackballGroupAttribute.cs
+Assets/PostProcessing/Runtime/Components/AmbientOcclusionComponent.cs
+Assets/PostProcessing/Runtime/Components/BloomComponent.cs
+Assets/PostProcessing/Runtime/Components/BuiltinDebugViewsComponent.cs
+Assets/PostProcessing/Runtime/Components/ChromaticAberrationComponent.cs
+Assets/PostProcessing/Runtime/Components/ColorGradingComponent.cs
+Assets/PostProcessing/Runtime/Components/DepthOfFieldComponent.cs
+Assets/PostProcessing/Runtime/Components/DitheringComponent.cs
+Assets/PostProcessing/Runtime/Components/EyeAdaptationComponent.cs
+Assets/PostProcessing/Runtime/Components/FogComponent.cs
+Assets/PostProcessing/Runtime/Components/FxaaComponent.cs
+Assets/PostProcessing/Runtime/Components/GrainComponent.cs
+Assets/PostProcessing/Runtime/Components/MotionBlurComponent.cs
+Assets/PostProcessing/Runtime/Components/ScreenSpaceReflectionComponent.cs
+Assets/PostProcessing/Runtime/Components/TaaComponent.cs
+Assets/PostProcessing/Runtime/Components/UserLutComponent.cs
+Assets/PostProcessing/Runtime/Components/VignetteComponent.cs
+Assets/PostProcessing/Runtime/Models/AmbientOcclusionModel.cs
+Assets/PostProcessing/Runtime/Models/AntialiasingModel.cs
+Assets/PostProcessing/Runtime/Models/BloomModel.cs
+Assets/PostProcessing/Runtime/Models/BuiltinDebugViewsModel.cs
+Assets/PostProcessing/Runtime/Models/ChromaticAberrationModel.cs
+Assets/PostProcessing/Runtime/Models/ColorGradingModel.cs
+Assets/PostProcessing/Runtime/Models/DepthOfFieldModel.cs
+Assets/PostProcessing/Runtime/Models/DitheringModel.cs
+Assets/PostProcessing/Runtime/Models/EyeAdaptationModel.cs
+Assets/PostProcessing/Runtime/Models/FogModel.cs
+Assets/PostProcessing/Runtime/Models/GrainModel.cs
+Assets/PostProcessing/Runtime/Models/MotionBlurModel.cs
+Assets/PostProcessing/Runtime/Models/ScreenSpaceReflectionModel.cs
+Assets/PostProcessing/Runtime/Models/UserLutModel.cs
+Assets/PostProcessing/Runtime/Models/VignetteModel.cs
+Assets/PostProcessing/Runtime/PostProcessingBehaviour.cs
+Assets/PostProcessing/Runtime/PostProcessingComponent.cs
+Assets/PostProcessing/Runtime/PostProcessingContext.cs
+Assets/PostProcessing/Runtime/PostProcessingModel.cs
+Assets/PostProcessing/Runtime/PostProcessingProfile.cs
+Assets/PostProcessing/Runtime/Utils/ColorGradingCurve.cs
+Assets/PostProcessing/Runtime/Utils/GraphicsUtils.cs
+Assets/PostProcessing/Runtime/Utils/MaterialFactory.cs
+Assets/PostProcessing/Runtime/Utils/RenderTextureFactory.cs
+Assets/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs
+"Assets/SnowBattle/Low Poly Rocks Pack/Bonus Assets/Scripts/LowPolyRocks_CameraControl.cs"
+"Assets/SnowBattle/Low Poly Rocks Pack/Bonus Assets/Scripts/LowPolyRocks_CloudsControl.cs"
+"Assets/SnowBattle/Low Poly Rocks Pack/Bonus Assets/Scripts/LowPolyRocks_FireLightControl.cs"
+"Assets/SnowBattle/Low Poly Rocks Pack/Bonus Assets/Scripts/LowPolyRocks_SunControl.cs"
+Assets/SnowBattle/Scripts/CameraFollow.cs
+Assets/SnowBattle/Scripts/GameManager.cs
+Assets/SnowBattle/Scripts/JoinGame.cs
+Assets/SnowBattle/Scripts/JoinRandom.cs
+Assets/SnowBattle/Scripts/Killfeed.cs
+Assets/SnowBattle/Scripts/KillfeedItem.cs
+Assets/SnowBattle/Scripts/Networking/AcornNetwork.cs
+Assets/SnowBattle/Scripts/Networking/AcornSpawnerNetwork.cs
+Assets/SnowBattle/Scripts/Networking/CanvasManagerNetwork.cs
+Assets/SnowBattle/Scripts/Networking/CustomNetworkManager.cs
+Assets/SnowBattle/Scripts/Networking/NetworkMessage.cs
+Assets/SnowBattle/Scripts/Networking/PlayerMovementNetwork.cs
+Assets/SnowBattle/Scripts/Networking/PlayerSetupNetwork.cs
+Assets/SnowBattle/Scripts/Networking/PlayerShootingNetwork.cs
+Assets/SnowBattle/Scripts/Networking/TeamSettings.cs
+Assets/SnowBattle/Scripts/RoomListItem.cs
+Assets/SnowBattle/Scripts/SceneManagers/FindGameManager.cs
+Assets/SnowBattle/Scripts/SceneManagers/LoginManager.cs
+Assets/SnowBattle/Scripts/SceneManagers/MenuManager.cs
+Assets/SnowBattle/Scripts/SceneManagers/OptionsManager.cs
+Assets/SnowBattle/Scripts/SceneManagers/RegistryManager.cs
+Assets/SnowBattle/Scripts/SceneManagers/SelectCharacterManager.cs
+Assets/SnowBattle/Scripts/SceneManagers/SelectMapManager.cs
+Assets/SnowBattle/Scripts/ScoreBoard.cs
+Assets/SnowBattle/Scripts/ScoreBoardItem.cs
+Assets/SnowBattle/Scripts/Utilities/ConfigurationData.cs
+Assets/SnowBattle/Scripts/Utilities/MatchSettings.cs
+Assets/SnowBattle/Scripts/Utilities/SaveSystemFile.cs
+Assets/SnowBattle/Scripts/Utilities/TestEmail.cs
+Assets/SnowBattle/Scripts/Utilities/User.cs
+Assets/SnowBattle/Scripts/Utilities/VariablesRealTime.cs
+Assets/SnowBattle/Scripts/Utilities/Vibration.cs
+"Assets/SnowBattle/Virtual Joystick Pack/Examples/2D Example/Player2DExample.cs"
+"Assets/SnowBattle/Virtual Joystick Pack/Examples/3D Example/Player3DExample.cs"
+"Assets/SnowBattle/Virtual Joystick Pack/Scripts/Base/Joystick.cs"
+"Assets/SnowBattle/Virtual Joystick Pack/Scripts/Joysticks/FixedJoystick.cs"
+"Assets/SnowBattle/Virtual Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs"
+"Assets/SnowBattle/Virtual Joystick Pack/Scripts/Joysticks/VariableJoystick.cs"
+-lib:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api"
